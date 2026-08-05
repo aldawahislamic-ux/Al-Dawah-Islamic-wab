@@ -1,0 +1,10 @@
+{
+  "name": "Al Dawah Islamic Official",
+  "description": "An ultra-premium, elegant, luxury Islamic website featuring the Holy Quran with Bengali and English translations, inspirational videos, and direct contacts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
